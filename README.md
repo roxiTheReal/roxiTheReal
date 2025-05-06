@@ -1,3 +1,3 @@
 # Hey there, hello, and hi!
 
-[[WIP]]
+The name's Roxi, nice to meet you!
